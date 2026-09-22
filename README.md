@@ -1,0 +1,51 @@
+# AI 캠퍼스: AI 시스템반도체 설계 2기
+
+이 repo는 AI 시스템반도체 설계 2기 과정 운영을 위한 것입니다.
+
+## Classmates
+1. [강민수](https://github.com/kcci-AI-campus/00_KMS)
+2. [강준호](https://github.com/kcci-AI-campus/02_KJH)
+3. [강지연](https://github.com/kcci-AI-campus/03_KJY)
+4. [견다혜](https://github.com/kcci-AI-campus/004_KDH)
+5. [고근영](https://github.com/kcci-AI-campus/05_GGY)
+6. [곽지균](https://github.com/kcci-AI-campus/06_KJK)
+7. [김동민](https://github.com/kcci-AI-campus/07_KDM)
+8. [김동욱](https://github.com/kcci-AI-campus/00_KDU)
+9. [김동은](https://github.com/kcci-AI-campus/00_KDE)
+10. [김성은](https://github.com/kcci-AI-campus/10_KSE)
+11. [김소영](https://github.com/kcci-AI-campus/11_KSY)
+12. [김유연](https://github.com/kcci-AI-campus/12_KYY)
+13. [김하은](https://github.com/kcci-AI-campus/13_KHE)
+14. [노하영](https://github.com/kcci-AI-campus/13_NHY)
+15. [문준기]
+16. [박건대](https://github.com/kcci-AI-campus/16_PGD)
+17. [박경훈](https://github.com/kcci-AI-campus/17_PKH)
+18. [박민기](https://github.com/kcci-AI-campus/00_PMK)
+19. [박소연](https://github.com/kcci-AI-campus/19_PSY)
+20. [박승준](https://github.com/kcci-AI-campus/20_PSJ)
+21. [박재균](https://github.com/kcci-AI-campus/21_PJK)
+22. [박제영](https://github.com/kcci-AI-campus/22_PJY)
+23. [서도현](https://github.com/kcci-AI-campus/00_SDH)
+24. [서동진](https://github.com/kcci-AI-campus/23_SDJ)
+25. [서은랑](https://github.com/kcci-AI-campus/25_SER)
+26. [송정식](https://github.com/kcci-AI-campus/26_SJS)
+27. [신동호](https://github.com/kcci-AI-campus/27_SDH)
+28. [오창민](https://github.com/kcci-AI-campus/28_OCM)
+29. [윤인수](https://github.com/kcci-AI-campus/29_YIS)
+30. [이광민](https://github.com/kcci-AI-campus/30_LKM)
+31. [이시원](https://github.com/kcci-AI-campus/31_LSW)
+32. [이재성](https://github.com/kcci-AI-campus/32_LJS)
+33. [이종혁](https://github.com/kcci-AI-campus/33_LJH)
+34. [이주환](https://github.com/kcci-AI-campus/34_LJH)
+35. [장세현](https://github.com/kcci-AI-campus/35_JSH)
+36. [정보윤](https://github.com/kcci-AI-campus/36_JBY)
+37. [정안성](https://github.com/kcci-AI-campus/37_JAS)
+38. [정준혁](https://github.com/kcci-AI-campus/38_JJH)
+39. [조수영](https://github.com/kcci-AI-campus/39_JSY)
+40. [조원영]
+41. [조형성](https://github.com/kcci-AI-campus/41_JHS)
+42. [최현서]
+43. [하기범](https://github.com/kcci-AI-campus/43_HKB)
+44. [한상훈](https://github.com/kcci-AI-campus/44_HSH)
+45. [황영빈](https://github.com/kcci-AI-campus/45_HYB)
+46. [황진하]
