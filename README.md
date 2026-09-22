@@ -15,5 +15,5 @@
 |8팀|[이광민](https://github.com/kcci-AI-campus/30_LKM), [이시원](https://github.com/kcci-AI-campus/31_LSW), [이재성](https://github.com/kcci-AI-campus/32_LJS), [조형성](https://github.com/kcci-AI-campus/41_JHS)|
 |9팀|[이종혁](https://github.com/kcci-AI-campus/33_LJH), [이주환](https://github.com/kcci-AI-campus/34_LJH), [장세현](https://github.com/kcci-AI-campus/35_JSH)|
 |10팀|[정보윤](https://github.com/kcci-AI-campus/36_JBY), [정안성](https://github.com/kcci-AI-campus/37_JAS), [정준혁](https://github.com/kcci-AI-campus/38_JJH), [강지연](https://github.com/kcci-AI-campus/03_KJY)|
-|11팀|[조수영](https://github.com/kcci-AI-campus/39_JSY), [조원영], [하기범](https://github.com/kcci-AI-campus/43_HKB), [한상훈](https://github.com/kcci-AI-campus/44_HSH)|
-|12팀|[최현서], [황영빈](https://github.com/kcci-AI-campus/45_HYB), [황진하]|
+|11팀|[조수영](https://github.com/kcci-AI-campus/39_JSY), [조원영](https://github.com/kcci-AI-campus/40_WYCHO), [하기범](https://github.com/kcci-AI-campus/43_HKB), [한상훈](https://github.com/kcci-AI-campus/44_HSH)|
+|12팀|[최현서](https://github.com/kcci-AI-campus/46_HSC), [황영빈](https://github.com/kcci-AI-campus/45_HYB), [황진하](https://github.com/kcci-AI-campus/46_HJH)|
