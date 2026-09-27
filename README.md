@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|
 |1팀|[강민수](https://github.com/kcci-AI-campus/00_KMS), [`강준호`](https://github.com/kcci-AI-campus/02_KJH), [견다혜](https://github.com/kcci-AI-campus/004_KDH), [고근영](https://github.com/kcci-AI-campus/05_GGY)|[Repo](https://github.com/kcci-AI-campus/Team-1-box-detection)|
 |2팀|[곽지균](https://github.com/kcci-AI-campus/06_KJK), [`김동민`](https://github.com/kcci-AI-campus/07_KDM), [김동욱](https://github.com/kcci-AI-campus/00_KDU), [김동은](https://github.com/kcci-AI-campus/00_KDE)|[Repo](https://github.com/kcci-AI-campus/TEAM_2_DRIVER-SENSE)|
-|3팀|[김성은](https://github.com/kcci-AI-campus/10_KSE), [김소영](https://github.com/kcci-AI-campus/11_KSY), [김유연](https://github.com/kcci-AI-campus/12_KYY), [`김하은`](https://github.com/kcci-AI-campus/13_KHE)|
+|3팀|[김성은](https://github.com/kcci-AI-campus/10_KSE), [김소영](https://github.com/kcci-AI-campus/11_KSY), [김유연](https://github.com/kcci-AI-campus/12_KYY), [`김하은`](https://github.com/kcci-AI-campus/13_KHE)|[Repo](https://github.com/kcci-AI-campus/Team-3)
 |4팀|[노하영](https://github.com/kcci-AI-campus/13_NHY), [문준기], [`박건대`](https://github.com/kcci-AI-campus/16_PGD), [박경훈](https://github.com/kcci-AI-campus/17_PKH)|
 |5팀|[박민기](https://github.com/kcci-AI-campus/00_PMK), [박소연](https://github.com/kcci-AI-campus/19_PSY), [`박승준`](https://github.com/kcci-AI-campus/20_PSJ), [박재균](https://github.com/kcci-AI-campus/21_PJK)|[Repo](https://github.com/kcci-AI-campus/Team5-sign2talk)|
 |6팀|[`박제영`](https://github.com/kcci-AI-campus/22_PJY), [서도현](https://github.com/kcci-AI-campus/00_SDH), [서동진](https://github.com/kcci-AI-campus/23_SDJ), [서은랑](https://github.com/kcci-AI-campus/25_SER)|[Repo](https://github.com/kcci-AI-campus/Team6-Vision-Guard)|
