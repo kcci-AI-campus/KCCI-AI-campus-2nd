@@ -15,9 +15,21 @@
   - 발표: 5분/인
   - Q&A + 소개 : 5분
   - 쉬는 시간 없이 진행합니다.
+- 발표자료는 발표 전까지 공유드린 `project_folder`안 `발표자료`에 올려 주세요.
 - **발표 순서**
 
   ![발표순서](./images/발표순서.png)
+
+### 최종결과물 제출
+- `project_folder/최종결과물/<팀별 folder>`에 제출
+- 제출 내용:
+- AI_캠퍼스_2기_결과보고서(1팀).ppt
+- AI_캠퍼스_2기_결과보고서(1팀).pdf
+- AI_캠퍼스_2기_시연영상(1팀).mp4
+- AI_캠퍼스_2기_결과파일(1팀).zip
+  - 소스코드 (colab ipynb도 포함)
+  - Train dataset
+  - 그 외 프로젝트 진행 시 생성된 결과 파일들
 
 
 ## [Class Info](https://github.com/kcci-AI-campus/AI-campus-class)
